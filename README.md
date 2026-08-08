@@ -1,5 +1,9 @@
 # 👨‍💻 Devkinandan Dubey — Portfolio
 
+## 📸 Portfolio Preview
+
+![Portfolio Preview](./portfolio-preview.png.png)
+
 Welcome to my personal portfolio repository! 🚀
 
 I am **Devkinandan Dubey**, a B.Tech Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning** at GLA University.
