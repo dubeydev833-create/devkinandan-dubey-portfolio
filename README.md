@@ -1,33 +1,98 @@
-# devkinandan-dubey-portfolio
+# 👨‍💻 Devkinandan Dubey — Portfolio
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+Welcome to my personal portfolio repository! 🚀
 
-## Built with v0
+I am **Devkinandan Dubey**, a B.Tech Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning** at GLA University.
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
+This portfolio showcases my skills, projects, education, and journey in technology.
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_3F2WtsBgAT57w9O5lLGNY96CwhiQ)
+## 🌐 Live Portfolio
 
-## Getting Started
+🔗 **[Visit My Portfolio](https://devkinandan-dubey-portfolio.vercel.app/)**
 
-First, run the development server:
+## 👨‍🎓 About Me
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- 🎓 B.Tech in Computer Science Engineering (AI & ML)
+- 🏫 GLA University
+- 📅 2025 – 2029
+- 🤖 Currently learning Machine Learning
+- 💻 Interested in AI/ML, Software Development & Web Development
+- 📍 Uttar Pradesh, India
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Skills & Technologies
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Programming
+- Python
+- C
+- Java
 
-## Learn More
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- Next.js
 
-To learn more, take a look at the following resources:
+### Database
+- SQL
+- MySQL
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Vercel
+
+### Artificial Intelligence
+- Machine Learning
+- Data Analysis
+- Data Visualization
+
+## 📂 Portfolio Sections
+
+My portfolio includes:
+
+- 🏠 Home
+- 👨‍💻 About Me
+- 🛠️ Skills
+- 📚 Education
+- 🚀 Projects
+- 📜 Certifications
+- 📞 Contact
+
+## 🚀 Project
+
+### Personal Portfolio Website
+
+A modern responsive portfolio website created to showcase my:
+
+- Skills
+- Education
+- Projects
+- Certifications
+- Contact information
+
+**Live Website:**  
+https://devkinandan-dubey-portfolio.vercel.app/
+
+## 🎯 Career Goals
+
+I am currently looking for opportunities to learn and grow through:
+
+- AI/ML Internships
+- Software Development Internships
+- Web Development Internships
+- Real-world projects
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Devkinandan Dubey](https://www.linkedin.com/in/devkinandan-dubey-848017305/)
+- 🐙 GitHub: [dubeydev833-create](https://github.com/dubeydev833-create)
+- 📧 Email: dubeydev833@gmail.com
+
+## ⭐ Support
+
+If you like my portfolio, feel free to ⭐ this repository!
+
+---
+
+### Built with ❤️ by Devkinandan Dubey
